@@ -1,3 +1,6 @@
+For more details, check out this Google doc: https://docs.google.com/document/d/14oM2ShD3E5HCTUcDQvm9eoOUv1mDXAUC-8qLnJ0-PVY/edit?usp=sharing
+\
+\
 In the project directory, you can run:
 
 ### `npm i`
