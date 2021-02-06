@@ -47,3 +47,4 @@ Option 3: Selection 'DELETE' -> Make the URL next to DELETE: http://localhost:50
 \
 \
 This is just the barebones template, feel free to add stuff to the client side. I'm also thinking of doing a template using Redux and JWT auth!
+# HackBU2021
